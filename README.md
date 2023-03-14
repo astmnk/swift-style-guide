@@ -29,7 +29,7 @@ This repo includes a Swift Package Manager command plugin that you can use to au
 
 ```swift
 dependencies: [
-  .package(url: "https://github.com/airbnb/swift", from: "1.0.0"),
+  .package(url: "https://github.com/astmnk/swift-style-guide", from: "1.0.3-beta.0"),
 ]
 ```
 
