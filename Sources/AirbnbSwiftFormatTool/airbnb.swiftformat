@@ -57,6 +57,7 @@
 --rules trailingSpace
 --rules typeSugar
 --rules wrap
+--rules wrapSingleLineComments
 --rules wrapMultilineStatementBraces
 --rules wrapArguments
 --rules wrapAttributes
